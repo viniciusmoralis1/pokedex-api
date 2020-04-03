@@ -1,0 +1,17 @@
+{
+  "name": "pokedex-api",
+  "version": "1.0.0",
+  "main": "src/app.js",
+  "repository": "https://github.com/ViniciusMoralis1/pokedex-api.git",
+  "author": "Vinicius Moralis <vinicius_moralis@hotmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon src/app.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
